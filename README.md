@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # High Scores
 
 Welcome to High Scores on Exercism's Rust Track.
